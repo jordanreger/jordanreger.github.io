@@ -87,6 +87,10 @@ code {
 .hljs-tag .hljs-name {
 	color: var(--yellow);
 }
+.hljs-tag .hljs-attr,
+.hljs-tag .hljs-string {
+	color: var(--cyan);
+}
 
 table {
 	border-collapse: collapse;
