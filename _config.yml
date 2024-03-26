@@ -1,2 +1,2 @@
 include: [".well-known"]
-remote_theme: jordanreger/rsms-theme
+remote_theme: jordanreger/theme
